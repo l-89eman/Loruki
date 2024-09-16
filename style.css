@@ -174,7 +174,7 @@ img {
 }
 /* Features */
 .features-head img,
-.features-head img {
+.docs-head img {
   width: 200px;
   justify-self: flex-end;
 }
